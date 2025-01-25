@@ -39,8 +39,5 @@ Modify files in `templates` and `static` directory.
 
 `index.html`, `predict.html` for the UI and `app.py` for all the behaviors
 
-## Deployment
-
-Update soon
 
 
